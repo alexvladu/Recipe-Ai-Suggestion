@@ -5,3 +5,4 @@ EXPO + TS
 2.open cd Recipe-Ai-Suggestion and then run "npx expo start --web"
 
 VIDEO: 
+https://www.youtube.com/watch?v=5GEMhSjrpCM
